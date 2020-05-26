@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="rpg:jar" />
+      <artifact name="rpgTextGame" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e845684-8cfc-4a95-9c6b-877fd28cad5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1azYikLoq4NqtSdXFcbroj7vujp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.rug.oop.rpg.Main" />
+      <module name="rpg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.rug.oop.rpg.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e845684-8cfc-4a95-9c6b-877fd28cad5f" name="Default Changelist" comment="" />
+      <created>1587740018873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587740018873</updated>
+      <workItem from="1587740030074" duration="34000" />
+      <workItem from="1588155302764" duration="4373000" />
+      <workItem from="1588160748306" duration="9405000" />
+      <workItem from="1588252190725" duration="14942000" />
+      <workItem from="1588338485688" duration="1285000" />
+      <workItem from="1588340739845" duration="2555000" />
+      <workItem from="1588353869910" duration="87000" />
+      <workItem from="1588448266532" duration="248000" />
+      <workItem from="1588624538180" duration="60000" />
+      <workItem from="1588748623301" duration="377000" />
+      <workItem from="1588749016518" duration="17050000" />
+      <workItem from="1588862336543" duration="150000" />
+      <workItem from="1588864593086" duration="5645000" />
+      <workItem from="1588944768063" duration="869000" />
+      <workItem from="1588960172288" duration="343000" />
+      <workItem from="1589235527922" duration="2212000" />
+      <workItem from="1589245775483" duration="1152000" />
+      <workItem from="1589275057744" duration="2661000" />
+      <workItem from="1589389872522" duration="1086000" />
+      <workItem from="1589479225758" duration="170000" />
+      <workItem from="1589536841927" duration="1338000" />
+      <workItem from="1589552322793" duration="2505000" />
+      <workItem from="1589559812622" duration="1362000" />
+      <workItem from="1589715631305" duration="1086000" />
+      <workItem from="1589735081744" duration="737000" />
+      <workItem from="1589790455112" duration="2597000" />
+      <workItem from="1590142943910" duration="136000" />
+      <workItem from="1590424220351" duration="1262000" />
+      <workItem from="1590425503441" duration="151000" />
+      <workItem from="1590495093635" duration="326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1588816469651">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1588816469651" />
+    <state x="478" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1588292141076">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="478" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1588292141076" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588176823417" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588804201585">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1588804201585" />
+    <state x="389" y="60" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588960479227">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="389" y="60" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1588960479227" />
+    <state x="458" y="138" key="FileChooserDialogImpl" timestamp="1588960478017">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="138" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588960478017" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588171835442" />
+    <state width="1237" height="153" key="GridCell.Tab.0.bottom" timestamp="1590425482888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590425482888" />
+    <state width="1493" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588189195895" />
+    <state width="1237" height="153" key="GridCell.Tab.0.center" timestamp="1590425482888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590425482888" />
+    <state width="1493" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588189195895" />
+    <state width="1237" height="153" key="GridCell.Tab.0.left" timestamp="1590425482888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590425482888" />
+    <state width="1493" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588189195895" />
+    <state width="1237" height="153" key="GridCell.Tab.0.right" timestamp="1590425482888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590425482888" />
+    <state width="1493" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588189195895" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1588804441780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1588804441780" />
+    <state x="33" y="0" key="SettingsEditor" timestamp="1590425325873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="33" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590425325873" />
+    <state x="91" y="0" key="new project wizard" timestamp="1590425593993">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1590425593993" />
+    <state x="484" y="98" key="refactoring.ChangeSignatureDialog" timestamp="1588816710057">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="484" y="98" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1588816710057" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1588155662463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1588155662463" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1588750612539">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1588750612539" />
+  </component>
+</project>

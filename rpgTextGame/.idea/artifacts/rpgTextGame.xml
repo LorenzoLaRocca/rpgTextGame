@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rpgTextGame">
+    <output-path>$PROJECT_DIR$/out/artifacts/rpgTextGame</output-path>
+    <root id="archive" name="rpgTextGame.jar" />
+  </artifact>
+</component>
